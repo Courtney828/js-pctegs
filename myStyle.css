@@ -1,0 +1,61 @@
+
+Ul.nav-bar{background-color:darkgrey;margin:0;padding:0 }
+Ul.nav-bar
+li{list-style-type:none;float: right; }
+ 
+Ul.nav-bar li a{padding:5px;scroll-margin-left:15px ;color:black}
+Ul.nav-bar li a :hover{color:yellow}
+
+.button {
+  border: none;
+  color:darkgray;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+div {
+  background-image:url("https://tse4.mm.bing.net/th?id=OIP.bfdXvZOsBc0kjtdHrrq4NgHaDX&pid=Api&P=0&w=363&h=166"); 
+  box-shadow: 0 10px 15px 0 rgb(0, 0,0.4);
+}
+body {
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.cHti3kYYzLyvVwkZcnBqeQHaLH&pid=Api&P=0&w=300&h=300");
+}
+body {
+    background-color:lightgrey;
+    
+  }
+  .container{
+    margin-top: 50px;
+
+    text-align: center;
+    box-shadow: 0 10px 15px 0 rgb(0, 0,0.4)
+    
+
+  }
+
+.pagination {
+  display: inline-block;
+}
+
+
+.pagination a {
+  color: black;
+  float: centre;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.form-inline { display: flex; flex-flow: row wrap; align-items: center;}
+.form-inline label { margin: 5px 10px 5px 0; }
+.form-inline input { vertical-align: middle; margin: 5px 10px 5px 0; padding: 10px; 
+background-color: #fff; border: 1px solid #ddd; }
+.form-inline button { padding: 12px 30px; background-color: grey; border: 1px solid #ddd; color: white; } .form-inline button:hover { background-color:whitesmoke; } 
+ @media (max-width: 800px) { .form-inline input { margin: 10px 0; } .form-inline { flex-direction: column; align-items: stretch; } }
+
+
+
